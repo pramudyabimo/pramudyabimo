@@ -1,6 +1,5 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
 **pramudyabimo/pramudyabimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on My Friends
 - 💬 Ask me about Programming
 - ⚡ Fun fact: My hobby is learning programming language
--->
