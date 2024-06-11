@@ -18,6 +18,12 @@ I am a Fullstack Website Developer passionate about contributing to a more appro
   <a href="https://www.instagram.com/prmdyabimo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://github.com/prmdyabimo?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@prmdyabimo">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
 </div>
 
 <div id="badges-programming-language">
