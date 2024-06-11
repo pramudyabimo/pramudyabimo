@@ -1,5 +1,10 @@
 Hi there 👋
 
+<hr>
+
+<img src="https://media.licdn.com/dms/image/D5616AQHVL53gDMfP8g/profile-displaybackgroundimage-shrink_350_1400/0/1717430910234?e=1723680000&v=beta&t=1N2-wNfk6bXXdvEUYoDFGgfgzu6UeMUHxocpMCrvkYk"/>
+
+
 **pramudyabimo/pramudyabimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on PT Four Best Synergy
