@@ -1,9 +1,5 @@
 <h1>Hi, I'm ✨ Pramudya Bimo Pranoto ✨</h1>
-
-<hr>
-
 <img src="https://media.licdn.com/dms/image/D5616AQHVL53gDMfP8g/profile-displaybackgroundimage-shrink_350_1400/0/1717430910234?e=1723680000&v=beta&t=1N2-wNfk6bXXdvEUYoDFGgfgzu6UeMUHxocpMCrvkYk"/>
-
 
 **pramudyabimo/pramudyabimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +9,8 @@
 - 💬 Ask me about Programming
 - ⚡ Fun fact: My hobby is learning programming language
 
-
 <div id="badges">
+  <h1>Find me on social media 🌎:</h1>
   <a href="https://www.linkedin.com/in/pramudya-bimo-pranoto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
