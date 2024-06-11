@@ -10,9 +10,8 @@ Hi there 👋
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/pramudya-bimo-pranoto/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramudya-bimo-pranoto/)
+
   <a href="https://www.youtube.com/channel/UC4sDZ7TbwZqcD2Bah5N8-8A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
