@@ -10,7 +10,7 @@
 - ⚡ Fun fact: My hobby is learning programming language
 
 <div id="badges">
-  <h1>Find me on social media 🌎:</h1>
+  <h4>Find me on social media 🌎:</h4>
   <a href="https://www.linkedin.com/in/pramudya-bimo-pranoto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
