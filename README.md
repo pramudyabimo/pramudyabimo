@@ -1,4 +1,4 @@
-Hi there 👋
+<h1>Hi, I'm ✨ Pramudya Bimo Pranoto ✨</h1>
 
 <hr>
 
